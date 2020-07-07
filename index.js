@@ -10,7 +10,7 @@ function setCart(c) {
 }
 
 function addToCart(item) {
- item=; 
+ item={itemName:; 
  // write your code here
 }
 //already a cart array
